@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @GYAN2020
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML,CSS , JS, ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+* Graduated on Mathematics & Scientific Computing from IIT Kanpur.
+* Skilled in data analytics, SQL, Power BI, Tableau, Python, and web development.
+* Experienced in building dashboards, predictive models, and interactive applications.
 
-<!---
-GYAN2020/GYAN2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
